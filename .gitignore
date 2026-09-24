@@ -1,0 +1,11 @@
+# Rust
+/target
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local SQLite test DB
+test.db
+
